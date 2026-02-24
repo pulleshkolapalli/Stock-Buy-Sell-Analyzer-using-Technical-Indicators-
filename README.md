@@ -1,0 +1,2 @@
+# Stock-Buy-Sell-Analyzer-using-Technical-Indicators-
+Stock Buy/Sell Analyzer using Technical Indicators is a DSA-based project by team Signal Analysts. It analyzes stock prices using O(n) and O(nk) algorithms along with Moving Average and RSI to generate Buy/Sell signals. The system demonstrates practical application of optimized algorithms for structured and data-driven stock market decision support
